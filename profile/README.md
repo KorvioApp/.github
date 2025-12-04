@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" width="260" alt="Korvio Logo">
+  <img src="../logo.svg" width="260" alt="Korvio Logo">
 </p>
 
 <h1 align="center">🌑 Korvio — Plataforma Inteligente para Pequenas Indústrias</h1>
